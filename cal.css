@@ -1,0 +1,46 @@
+*{
+margin: 0px;
+padding:0px;
+box-sizing: border-box;
+font-family: sans-serif;
+font-weight: bold;
+}
+.all{
+    background-color: black;
+    padding: 30px;
+    margin: 20px;
+    width: 500px;
+    height: 600px;
+}
+body{
+background-color: darkslategrey;
+text-align: center;
+}
+.text input{
+    font-weight: 500;
+    font-size: 30px;
+width: 400px;
+margin: 10px;
+height: 50px;
+}
+.abc{
+font-size: 30px;
+width: 80px;
+height: 90px;
+padding: 30px;
+margin: 10px;
+background-color: darksalmon; 
+font-weight: 800;
+}
+.change{
+
+    background-color: yellow;
+}
+.color{
+background-color: cyan;
+}
+.abc:hover{
+background-color: darkred;
+cursor: pointer;
+color: darkgoldenrod;
+}
